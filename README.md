@@ -1,5 +1,4 @@
-# Customer-Segmentation-
-🧠 Customer Segmentation Analysis
+# Customer Segmentation Analysis
 Technologies Used:
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
